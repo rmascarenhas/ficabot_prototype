@@ -23,3 +23,13 @@
   height: 50px;
   width: 50px;
 }
+
+.ocorrencia-img {
+    text-align: center;
+}
+
+.ocorrencia-img img {
+    width: 80%;
+    max-width: 800px;
+    margin: 1rem;
+}

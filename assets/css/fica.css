@@ -1,0 +1,25 @@
+.menu-item > .collapsed {
+  padding: .75rem var(--theme-sidebar-padding-x);
+  border-left: 3px solid transparent;
+}
+
+.collapse.always-show {
+  display: unset;
+}
+
+.menu-collapsed .always-show {
+  display: none;
+}
+
+.no-transform {
+  text-transform: none !important;
+}
+
+.pr-2 {
+  padding-right: .5rem !important;
+}
+
+.ficalogo {
+  height: 50px;
+  width: 50px;
+}

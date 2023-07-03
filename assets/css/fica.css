@@ -33,3 +33,16 @@
     max-width: 800px;
     margin: 1rem;
 }
+
+.remove-me-nothing-here {
+    width: 10%;
+    min-width: 100px;
+    max-width: 400px;
+}
+
+@media(max-width: 600px) {
+  .remove-me-nothing-here {
+    display: block;
+    margin-bottom: 1rem;
+  }
+}
